@@ -2,6 +2,18 @@ body{
     background:rgb(63, 171, 63);
     font-family:Arial, Helvetica, sans-serif;
 }
+
+.assignment{
+    display:flex;
+    padding:10px;
+    margin:10px;
+    background:rgb(185, 179, 179);
+}
+
+.assignment img{
+    width:250px;
+}
+
 h1{
     color: rgb(13, 48, 164);
     text-align:center;
